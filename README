@@ -1,3 +1,6 @@
-Try to implement with tiny12
-
+Implements remote shutter for Nikon D40x camera with c and tiny2313 microcontroller. Purely based on information found from the following site:
 www.bigmike.it/ircontrol
+
+External components I used were 3 Volt battery and IR led was picked up from some old remote. Uses internal RC oscilator.
+
+
